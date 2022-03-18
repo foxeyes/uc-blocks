@@ -1,0 +1,21 @@
+{
+  "name": "uc-blocks",
+  "version": "0.0.1",
+  "description": "Building blocks for UC integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "uploadcare",
+    "symbiotejs",
+    "uc-blocks",
+    "custom",
+    "elements",
+    "css",
+    "context",
+    "properties"
+  ],
+  "author": "Uploadcare inc.",
+  "license": "MIT"
+}
