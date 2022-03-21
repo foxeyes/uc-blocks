@@ -1,0 +1,6 @@
+[submodule "submodules/symbiote"]
+	path = submodules/symbiote
+	url = https://github.com/symbiotejs/symbiote.js
+[submodule "submodules/upload-client"]
+	path = submodules/upload-client
+	url = https://github.com/uploadcare/uploadcare-upload-client
