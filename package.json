@@ -1,9 +1,17 @@
 {
-  "name": "uc-blocks",
+  "name": "test-ucb-1",
   "version": "0.0.1",
   "description": "Building blocks for UC integrations",
   "type": "module",
   "main": "index.js",
+  "module": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxeyes/uc-blocks"
+  },
   "scripts": {
     "test": "test",
     "dev": "node --experimental-network-imports https://re4ma.github.io/re-serve/server/re-server.js"
