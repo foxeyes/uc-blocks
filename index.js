@@ -1,0 +1,1 @@
+export { BaseComponent } from './submodules/symbiote/core/symbiote.js';
